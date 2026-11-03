@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Duc Phat — Security Research</title>
+  <desc id="desc">Pentesting, Windows internals and reverse engineering. Observe, test, explain.</desc>
+  <rect width="1200" height="300" fill="#171b18"/>
+  <path d="M32 32h1136v236H32zM790 32v236M790 110h378M790 190h378" fill="none" stroke="#3b423b"/>
+  <text x="64" y="77" fill="#c0d89d" font-family="monospace" font-size="15" letter-spacing="3">DUCPHAT1310 / SELECTED WORK</text>
+  <text x="59" y="151" fill="#f4f3ed" font-family="Arial, sans-serif" font-size="61" font-weight="700" letter-spacing="-2">Security Research.</text>
+  <text x="64" y="203" fill="#bac0b5" font-family="Arial, sans-serif" font-size="20">Pentesting · Windows internals · Reverse engineering</text>
+  <text x="64" y="244" fill="#c0d89d" font-family="monospace" font-size="13" letter-spacing="2">EVIDENCE BEFORE CONCLUSIONS</text>
+  <text x="819" y="78" fill="#f4f3ed" font-family="monospace" font-size="16">01 / OBSERVE</text>
+  <text x="819" y="157" fill="#f4f3ed" font-family="monospace" font-size="16">02 / TEST</text>
+  <text x="819" y="237" fill="#f4f3ed" font-family="monospace" font-size="16">03 / EXPLAIN</text>
+</svg>

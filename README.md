@@ -1,16 +1,27 @@
-## Hi there 👋
+![Duc Phat — security research, pentesting and reverse engineering](assets/security-lab.svg)
 
-<!--
-**ducphat1310/ducphat1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I study how systems fail, then turn observations into reproducible experiments
+and clear remediation. My focus is **pentesting, Windows internals and reverse engineering**.
 
-Here are some ideas to get you started:
+**[Explore the portfolio](https://ducphat1310.github.io/pentest-intern-portfolio/)**
+&nbsp; / &nbsp; [Browse projects](https://github.com/ducphat1310?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Selected work
+
+| Project | Question | Evidence |
+| :-- | :-- | :-- |
+| **[MIP-Q / NASim](https://github.com/ducphat1310/nasim-pentest-research)** | Can better action selection improve a simulated pentesting agent? | 192 archived runs, six scenarios, regression and integrity checks |
+| **[Windows Minifilter Lab](https://github.com/ducphat1310/windows-minifilter-lab)** | Where does a file-access policy take effect in Windows? | C kernel callback, C++ client and PowerShell behavior check |
+| **[.NET Security Case Study](https://github.com/ducphat1310/dotnet-security-case-study)** | What crosses the configuration, serialization and extraction boundaries? | Static findings, exploit preconditions, path validation and fixes |
+
+### Tools I use in these projects
+
+**Python · PowerShell · C / C++ · C# / IL · NASim · ILSpy · Windows Filter Manager**
+
+### How I approach a finding
+
+Trace the input. Identify the trust boundary. Validate the smallest claim.
+Document what is observed, what needs another test, and how to fix the root cause.
+
+The linked READMEs include provenance and validation limits. Simulator results
+stay labeled as simulator results; source review stays distinct from runtime proof.
